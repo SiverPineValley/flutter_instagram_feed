@@ -1,6 +1,6 @@
-# instragram_feed
+# flutter_instagram_feed
 
-A new Flutter project.
+Flutter Practice #1 flutter_instagram_feed
 
 ## Getting Started
 
